@@ -1,5 +1,8 @@
 # smart_spider_web
 Utilizing genetic algorithms to show how a simple system is increasing in complexity to satisfy its function in the form of a spider web. Inspired by Richard Dawkins 1991 Christmas Lecture.
+
+https://www.youtube.com/watch?v=QdtYRJqNe9I
+
 Spiderwebs are a fantastic evolutionary adaptation. The wellbeing of the spider and reproductive success directly ties to the quality of its web -> that would be the more insects that a spider web could catch, the better fed the spider is, and the more likely the spider would be able to reproduce and pass its genetic information on to the next generation.
 
 A spider web is an excellent way of exploring this form of genetic algorithms. The web's efficiency or fitness can be evaluated by the number of insects caught (more insects caught improves fitness) and the amount of web used (more web used decreases fitness).
