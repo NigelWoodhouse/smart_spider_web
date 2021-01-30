@@ -7,7 +7,7 @@ Spiderwebs are a fantastic evolutionary adaptation. The wellbeing of the spider 
 
 A spider web is an excellent way of exploring this form of genetic algorithms. The web's efficiency or fitness can be evaluated by the number of insects caught (more insects caught improves fitness) and the amount of web used (more web used decreases fitness).
 
-To operate, either choose the Spiderweb_Artificial_Selection.py or Spiderweb_Natural_Selction.py.
+To operate, either choose the Spiderweb_Artificial_Selection.py or Spiderweb_Natural_Selction.py. Download all of the .py files.
 
 On the screen, nine spider webs are presented. The top left web is the parent web; the other eight are daughter webs. The red dots represent insects that may pass through the web. If they touch the black lines of the web, they are caught.
 
