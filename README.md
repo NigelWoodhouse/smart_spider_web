@@ -17,4 +17,4 @@ The Artificial Selection allows the user to select which web they think is best 
 
 Overall, the program shows how something simple can increase in complexity to satisfy its niche better as would have been expected in the natural world. Regardless of the web's original configuration, all solutions will approach a circular shape with many internal webbings, exactly what we see in nature. 
 
-![Alt text](NigelWoodhouse/smart_spider_web/blob/main/documentation/spiderwebs_gen1.PNG?raw=true "First Generation of Webs")
+![Alt text](/documentation/spiderwebs_gen1.PNG?raw=true "First Generation of Webs")
