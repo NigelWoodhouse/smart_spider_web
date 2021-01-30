@@ -1,4 +1,4 @@
-# smart_spider_web
+# Smart Spider Web
 Utilizing genetic algorithms to show how a simple system is increasing in complexity to satisfy its function in the form of a spider web. Inspired by Richard Dawkins 1991 Christmas Lecture.
 
 https://www.youtube.com/watch?v=QdtYRJqNe9I
@@ -16,3 +16,5 @@ The Natural Selection automatically evaluates the fitness of each of the nine we
 The Artificial Selection allows the user to select which web they think is best via aesthetic means.
 
 Overall, the program shows how something simple can increase in complexity to satisfy its niche better as would have been expected in the natural world. Regardless of the web's original configuration, all solutions will approach a circular shape with many internal webbings, exactly what we see in nature. 
+
+![Alt text](smart_spider_web/code/spiderwebs_gen1?raw=true "First Generation of Webs")
